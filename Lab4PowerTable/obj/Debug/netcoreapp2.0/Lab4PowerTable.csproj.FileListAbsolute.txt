@@ -1,0 +1,11 @@
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\bin\Debug\netcoreapp2.0\Lab4PowerTable.deps.json
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\bin\Debug\netcoreapp2.0\Lab4PowerTable.runtimeconfig.json
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\bin\Debug\netcoreapp2.0\Lab4PowerTable.runtimeconfig.dev.json
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\bin\Debug\netcoreapp2.0\Lab4PowerTable.dll
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\bin\Debug\netcoreapp2.0\Lab4PowerTable.pdb
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\obj\Debug\netcoreapp2.0\Lab4PowerTable.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\obj\Debug\netcoreapp2.0\Lab4PowerTable.AssemblyInfoInputs.cache
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\obj\Debug\netcoreapp2.0\Lab4PowerTable.AssemblyInfo.cs
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\obj\Debug\netcoreapp2.0\Lab4PowerTable.dll
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\obj\Debug\netcoreapp2.0\Lab4PowerTable.pdb
+C:\Users\Grand Circus Student\source\repos\Lab4PowerTable\Lab4PowerTable\obj\Debug\netcoreapp2.0\Lab4PowerTable.csprojResolveAssemblyReference.cache
